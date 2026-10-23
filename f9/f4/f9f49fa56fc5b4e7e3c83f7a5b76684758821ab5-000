@@ -1,22 +1,22 @@
 {
  "schemaVersion": 1,
  "projectId": "zenray-sales-23-october-2026",
- "scannedAt": "2026-10-23T17:42:23.633Z",
+ "scannedAt": "2026-10-23T18:37:52.844Z",
  "conversations": [
   {
    "projectId": "zenray-sales-23-october-2026",
-   "lines": 44,
-   "work": 2,
+   "lines": 76,
+   "work": 7,
    "prompts": 0,
    "first": "2026-10-23T12:19:13.181Z",
-   "last": "2026-10-23T17:39:18.513Z",
-   "strength": "weak",
+   "last": "2026-10-23T18:04:44.258Z",
+   "strength": "strong",
    "conversationId": "claude:7e127e64-f68b-4058-b7bb-62c6b86d72ba",
    "provider": "claude",
    "sessionId": "7e127e64-f68b-4058-b7bb-62c6b86d72ba",
    "title": "zenray sales",
-   "updatedAt": "2026-10-23T17:39:21.586Z",
-   "bytes": 7521671,
+   "updatedAt": "2026-10-23T18:24:20.609Z",
+   "bytes": 40361,
    "boundProject": "zenray-plan"
   },
   {
@@ -33,6 +33,22 @@
    "title": "zenray sales",
    "updatedAt": "2026-10-23T17:36:59.572Z",
    "bytes": 38354,
+   "boundProject": null
+  },
+  {
+   "projectId": "zenray-sales-23-october-2026",
+   "lines": 10,
+   "work": 0,
+   "prompts": 1,
+   "first": "2026-10-23T17:48:26.085Z",
+   "last": "2026-10-23T18:04:22.687Z",
+   "strength": "weak",
+   "conversationId": "claude:d49f025f-07cd-4056-947d-c1294c570e01",
+   "provider": "claude",
+   "sessionId": "d49f025f-07cd-4056-947d-c1294c570e01",
+   "title": "Assets : capture bloquée par U+2028 dans un transcript",
+   "updatedAt": "2026-10-23T18:04:43.904Z",
+   "bytes": 41814,
    "boundProject": null
   },
   {
@@ -72,6 +88,22 @@
    "lines": 1,
    "work": 0,
    "prompts": 0,
+   "first": "2026-10-23T17:59:23.878Z",
+   "last": "2026-10-23T17:59:23.878Z",
+   "strength": "weak",
+   "conversationId": "claude:11264bd4-8a19-4e76-b9be-dc012304e419",
+   "provider": "claude",
+   "sessionId": "11264bd4-8a19-4e76-b9be-dc012304e419",
+   "title": "zenray knowledge",
+   "updatedAt": "2026-10-23T18:37:18.278Z",
+   "bytes": 38541,
+   "boundProject": null
+  },
+  {
+   "projectId": "zenray-sales-23-october-2026",
+   "lines": 1,
+   "work": 0,
+   "prompts": 0,
    "first": "2026-10-23T17:37:52.868Z",
    "last": "2026-10-23T17:37:52.868Z",
    "strength": "weak",
@@ -79,8 +111,8 @@
    "provider": "claude",
    "sessionId": "dcc7ed98-e112-48d7-b02f-91779656c66d",
    "title": "zenray plan calendar",
-   "updatedAt": "2026-10-23T17:38:59.233Z",
-   "bytes": 38194,
+   "updatedAt": "2026-10-23T17:39:34.036Z",
+   "bytes": 38449,
    "boundProject": null
   }
  ]

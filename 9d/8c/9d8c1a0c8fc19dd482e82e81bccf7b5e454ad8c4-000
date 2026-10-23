@@ -294,3 +294,137 @@
 - Project: zenray-sales-23-october-2026; kind: prompt. (23 October 2026, 19:44:55 +0200)
 
 > 23 October 2026 : Matthieu demande de pousser dans Assets tout ce qui est lié à ZenRay Sales, de créer un article neutre, de lier et indexer le projet (index mapping) et de consigner toute la conversation. Fait : projet zenray-sales-23-october-2026, quatre sources, deux sessions de recherche liées, ConversationIndex, article en brouillon (ton neutre court) en attente de relecture. (23 October 2026, 19:44:55 +0200)
+
+## 23 October 2026, 19:52:57 +0200 : Log
+
+<!-- feedback-event:9247818dcf614c4f88f4960bef608d45d0d78c89cc20888ba0f20ca050528df6 (23 October 2026, 19:52:57 +0200) -->
+- Project: zenray-sales-23-october-2026; kind: log. (23 October 2026, 19:52:57 +0200)
+
+> 23 October 2026 : test demandé par Matthieu : titres de l'article neutre en GT Sectra LCG italique (option titleStyle italic du renderer zenray-edit) ; à consigner dans Typography1.md et zenray-edit seulement s'il valide ; la règle « jamais d'italique » du 23 October 2026 reste en vigueur d'ici là. (23 October 2026, 19:52:57 +0200)
+
+## 23 October 2026, 19:59:22 +0200 : Standing rule
+
+<!-- feedback-event:2fd227ed5a5af13523d5e00d0234333397cd8425d47e072737458e3e1b07b12f (23 October 2026, 19:59:22 +0200) -->
+- Project: zenray-sales-23-october-2026; kind: rule. (23 October 2026, 19:59:22 +0200)
+
+> 23 October 2026 : Matthieu valide les titres en GT Sectra LCG italique (« Oui consigne dans toutes les occurrences puis déploie l'article et tout le reste fini tout proprement »). Consigné : rules/Typography1.md (section 18:20), CLAUDE.md global, claude-md-global, zenray-edit (SKILL.md, ProjectArticles.md, générateur d'articles titleStyle italic par défaut, gabarit), vocabulaire de rules/triggers.json ; article publié dans le projet (set-article, SHA 32670db4cbf6ac2fb26e351234d8bb4e75d1ad8819608b28933476b6d4fa4cb8). (23 October 2026, 19:59:22 +0200)
+
+## 23 October 2026, 17:54:22 +0200 : Iteration
+
+<!-- feedback-event:29acd81189a83e381dfa34fbb62286bee141077e665d723955de362d13296e43 (23 October 2026, 17:54:22 +0200) -->
+- Project: zenray-sales-23-october-2026; kind: iteration. (23 October 2026, 17:54:22 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/21bf5c30-b775-4f4b-a369-b58c562c84b7.jsonl. (23 October 2026, 17:54:22 +0200)
+
+> Très bon filon : les lauréats du fonds CNC doivent démarrer dans les trois mois et la sous-traitance est éligible. Je lis la page des résultats de commission. (23 October 2026, 17:54:22 +0200)
+
+## 23 October 2026, 17:54:48 +0200 : Iteration
+
+<!-- feedback-event:a6dd332ea613f96f3f00bad5a493af7b6fe0d65635287a5854c1441286d4e65d (23 October 2026, 17:54:48 +0200) -->
+- Project: zenray-sales-23-october-2026; kind: iteration. (23 October 2026, 17:54:48 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/21bf5c30-b775-4f4b-a369-b58c562c84b7.jsonl. (23 October 2026, 17:54:48 +0200)
+
+> Liste de prospects concrète : douze studios financés le 29 June 2026. Je lis aussi la commission du 30 March 2026 et l'appel à projets du 23 October 2026. (23 October 2026, 17:54:48 +0200)
+
+## 23 October 2026, 17:55:28 +0200 : Iteration
+
+<!-- feedback-event:519280c13258f26f61121e81380b5513bf041aa4bd94a42eb7587f40077bfa7e (23 October 2026, 17:55:28 +0200) -->
+- Project: zenray-sales-23-october-2026; kind: iteration. (23 October 2026, 17:55:28 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/21bf5c30-b775-4f4b-a369-b58c562c84b7.jsonl. (23 October 2026, 17:55:28 +0200)
+
+> 83 pages lues. J'écris la section marché (salons, état de l'industrie, financement CNC, liste de prospects), puis le catalogue de questions-réponses. (23 October 2026, 17:55:28 +0200)
+
+## 23 October 2026, 17:56:18 +0200 : Iteration
+
+<!-- feedback-event:fc85099eb32dffdaa033871660a27abe38c56a2b00d20aab54b7f7eb47f1304e (23 October 2026, 17:56:18 +0200) -->
+- Project: zenray-sales-23-october-2026; kind: iteration. (23 October 2026, 17:56:18 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/21bf5c30-b775-4f4b-a369-b58c562c84b7.jsonl. (23 October 2026, 17:56:18 +0200)
+
+> Section marché écrite. Pour le catalogue de questions-réponses, je fais d'abord tourner le calculateur sur les scénarios que les réponses citeront. (23 October 2026, 17:56:18 +0200)
+
+## 23 October 2026, 17:56:27 +0200 : Iteration
+
+<!-- feedback-event:609968831987bd8fa8f4adcf68be2819d9cd29e297c4b5864c88ea1965c8c0f0 (23 October 2026, 17:56:27 +0200) -->
+- Project: zenray-sales-23-october-2026; kind: iteration. (23 October 2026, 17:56:27 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/21bf5c30-b775-4f4b-a369-b58c562c84b7.jsonl. (23 October 2026, 17:56:27 +0200)
+
+> Le calculateur ignore ses paramètres en ligne de commande (toutes les sorties sont identiques) : c'est un bug du skill, je le diagnostique avant d'écrire le catalogue. (23 October 2026, 17:56:27 +0200)
+
+## 23 October 2026, 17:56:31 +0200 : Iteration
+
+<!-- feedback-event:043cb22aeec29e129f996952edfdd4a73c3f7e7ca747a41cce25068fbaaa498b (23 October 2026, 17:56:31 +0200) -->
+- Project: zenray-sales-23-october-2026; kind: iteration. (23 October 2026, 17:56:31 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/21bf5c30-b775-4f4b-a369-b58c562c84b7.jsonl. (23 October 2026, 17:56:31 +0200)
+
+> Fausse alerte : c'est zsh qui ne découpe pas une variable non citée ; le calculateur est correct. Je relance proprement. (23 October 2026, 17:56:31 +0200)
+
+## 23 October 2026, 17:56:45 +0200 : Iteration
+
+<!-- feedback-event:244f94fd2cecca0434c22221a502f55183b7d95a568147664f10da34ebb42821 (23 October 2026, 17:56:45 +0200) -->
+- Project: zenray-sales-23-october-2026; kind: iteration. (23 October 2026, 17:56:45 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/21bf5c30-b775-4f4b-a369-b58c562c84b7.jsonl. (23 October 2026, 17:56:45 +0200)
+
+> Calculs posés (par exemple 10 000 € avec un panier de 1 500 € et 10 % de réponses = environ 202 contacts). J'écris maintenant le catalogue de 55 questions-réponses. (23 October 2026, 17:56:45 +0200)
+
+## 23 October 2026, 17:57:49 +0200 : Iteration
+
+<!-- feedback-event:ee1294007f71c4bd6241c7ebdf2b2f02b2a3787112fa5c81872bbada69fd1786 (23 October 2026, 17:57:49 +0200) -->
+- Project: zenray-sales-23-october-2026; kind: iteration. (23 October 2026, 17:57:49 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/21bf5c30-b775-4f4b-a369-b58c562c84b7.jsonl. (23 October 2026, 17:57:49 +0200)
+
+> 57 questions écrites. Il reste le registre des pages lues, la mise à jour des sujets ouverts, puis les contrôles. (23 October 2026, 17:57:49 +0200)
+
+## 23 October 2026, 17:58:16 +0200 : Iteration
+
+<!-- feedback-event:f013a28e0a6d68b2aa7eaef9c02a320784acf3bc9c7a2c0ebd1b38fac9ef67d4 (23 October 2026, 17:58:16 +0200) -->
+- Project: zenray-sales-23-october-2026; kind: iteration. (23 October 2026, 17:58:16 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/21bf5c30-b775-4f4b-a369-b58c562c84b7.jsonl. (23 October 2026, 17:58:16 +0200)
+
+> Now the open-topics update and the complementary index, then the SKILL.md note. (23 October 2026, 17:58:16 +0200)
+
+## 23 October 2026, 17:58:40 +0200 : Iteration
+
+<!-- feedback-event:d0813092ce9e67e7f8eef68f0247b54e11084a18650844f924f021993f456fc6 (23 October 2026, 17:58:40 +0200) -->
+- Project: zenray-sales-23-october-2026; kind: iteration. (23 October 2026, 17:58:40 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/21bf5c30-b775-4f4b-a369-b58c562c84b7.jsonl. (23 October 2026, 17:58:40 +0200)
+
+> Écrit. Journal PROGRESS puis synchronisation du skill. (23 October 2026, 17:58:40 +0200)
+
+## 23 October 2026, 17:59:17 +0200 : Iteration
+
+<!-- feedback-event:a5d2f9d20c10a40be03a5cc86944148cd65dd186160689e6fd443e0f4885fb6a (23 October 2026, 17:59:17 +0200) -->
+- Project: zenray-sales-23-october-2026; kind: iteration. (23 October 2026, 17:59:17 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/21bf5c30-b775-4f4b-a369-b58c562c84b7.jsonl. (23 October 2026, 17:59:17 +0200)
+
+> J'ai enrichi [/Users/zenray/.claude/skills/zenray-sales/Sales1.md](/Users/zenray/.claude/skills/zenray-sales/Sales1.md), qui passe de 44 à 137 Ko : 83 pages lues en entier y sont consignées ligne par ligne, datées, dans le registre de la section 12.9. Rien n'a été commité à la main. L'entrée PROGRESS est écrite et `sync-skill.sh zenray-sales` est passé (fichiers identiques vérifiés par `cmp`). (23 October 2026, 17:59:17 +0200)
+>
+> **Ce que la boucle ajoute**, dans l'ordre demandé : (23 October 2026, 17:59:17 +0200)
+> - **Section 12, sujets ouverts :** (23 October 2026, 17:59:17 +0200)
+>   - Enns : les douze proclamations, plus neuf de ses articles lus à la source. (23 October 2026, 17:59:17 +0200)
+>   - Les rapports originaux du cold email (Instantly, Belkins, Hunter). (23 October 2026, 17:59:17 +0200)
+>   - Les PDF officiels de Hormozi. Les livres eux-mêmes ne sont pas en accès libre, et la « Rule of 100 » reste donc non vérifiée. (23 October 2026, 17:59:17 +0200)
+>   - Les tarifs Malt et l'observatoire AFJV. (23 October 2026, 17:59:17 +0200)
+>   - Fab et les licences SideFX, qui décide dans un studio, et la fiche CNIL du 16 October 2026. (23 October 2026, 17:59:17 +0200)
+> - **Section 13 :** quinze fiches de livres, chacune avec sa thèse, cinq techniques et l'application au démarchage de studios. Pour Predictable Revenue, Gap Selling et Challenger, les sources sont des résumés de tiers, signalés comme tels. (23 October 2026, 17:59:17 +0200)
+> - **Section 14, marché :** le rapport GDC 2026, le fonds d'aide du CNC et la liste de ses lauréats, les salons aux dates vérifiées, la saisonnalité. (23 October 2026, 17:59:17 +0200)
+> - **Section 15 :** 57 questions-réponses, chacune avec sa section et son calcul `SalesMath.mjs`. (23 October 2026, 17:59:17 +0200)
+> - **Section 16 :** l'index complémentaire et dix sujets ouverts pour la boucle suivante. (23 October 2026, 17:59:17 +0200)
+>
+> **Trois découvertes changent la conduite de Matthieu :** (23 October 2026, 17:59:17 +0200)
+> - **Point critique, la licence Houdini :** ses fichiers sont en `.hiplc`, donc faits sous Houdini Indie. D'après la FAQ officielle de SideFX, il ne peut pas livrer un HDA à un studio qui fait plus de 100 000 $ de revenu sans qu'ils achètent tous deux une licence commerciale (Houdini Core coûte 1 475 $ par an). La FAQ ne parle que de « rendus finaux » : il faut confirmer avec SideFX si la géométrie et les textures exportées passent. (23 October 2026, 17:59:17 +0200)
+> - **Des prospects datés :** le CNC a financé quinze studios en March et June 2026. Ils doivent démarrer leur production sous trois mois, et la sous-traitance fait partie des dépenses éligibles. Un nouvel appel à projets pour les DLC est ouvert jusqu'au 14 December 2026. (23 October 2026, 17:59:17 +0200)
+> - **Deux corrections :** (23 October 2026, 17:59:17 +0200)
+>   - Les chiffres attribués à Woodpecker en section 5.5 viennent en réalité de Belkins et d'Instantly ; corrigé par une ligne datée. (23 October 2026, 17:59:17 +0200)
+>   - Belkins mesure 0,45 % de réponses en moyenne, et 64 % des artistes techniques jugent l'IA générative néfaste (GDC 2026). Il faut donc présenter ses outils comme procéduraux, jamais comme de l'IA. (23 October 2026, 17:59:17 +0200)
+>
+> Pour le calculateur, les sorties identiques venaient de zsh, qui passe une variable non citée comme un seul argument : le script ignore alors l'option sans erreur. Il n'y a pas de bug, et le piège est noté dans `SKILL.md`. Pour 10 000 € au 6 December, il faut environ 202 contacts avec un panier de 1 500 € et 10 % de réponses, contre 606 à 500 €. (23 October 2026, 17:59:17 +0200)
+>
+> | Ce qu'il voulait | Fait ? | Comment je le sais | (23 October 2026, 17:59:17 +0200)
+> |---|---|---| (23 October 2026, 17:59:17 +0200)
+> | Au moins 80 pages lues et consignées | Oui | 83 lignes « page lue » datées en 12.9 : 74 au contenu utilisé, 5 résumés de tiers et 4 pages vides | (23 October 2026, 17:59:17 +0200)
+> | Traiter les sujets ouverts de la section 11 | Oui, sauf les livres Hormozi | sections 12.1 à 12.7 ; les livres de Hormozi ne sont pas en accès libre | (23 October 2026, 17:59:17 +0200)
+> | Fiches de livres | Oui | 15 fiches en section 13 | (23 October 2026, 17:59:17 +0200)
+> | Données de marché jeu vidéo | Oui, sauf la saisonnalité des budgets | section 14 ; aucune source ne mesure les mois où les studios dépensent leur budget d'outsourcing | (23 October 2026, 17:59:17 +0200)
+> | Au moins 50 questions-réponses | Oui | 57 lignes Q01 à Q57 comptées par grep | (23 October 2026, 17:59:17 +0200)
+> | Journal, synchronisation, aucun tiret cadratin | Oui | progress.mjs a répondu `ok:true`, `cmp` identique vers Codex et Memory, grep sans tiret | (23 October 2026, 17:59:17 +0200)
+>
+> J'ai aussi laissé une note de passation dans le dossier partagé : `/Users/zenray/Library/Application Support/Claude/side-session-notes/local_2fad5fd3-26c2-49bb-8dd5-1d450b7cc855/zenray-sales-boucle5-23-October-2026.md`. (23 October 2026, 17:59:17 +0200)
