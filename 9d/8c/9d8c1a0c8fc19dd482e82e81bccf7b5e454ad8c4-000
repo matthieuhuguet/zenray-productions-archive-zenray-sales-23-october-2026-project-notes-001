@@ -1,0 +1,296 @@
+# zenray-sales-23-october-2026 : project feedback, append only (23 October 2026, 19:37:29 +0200)
+
+## 23 October 2026, 19:37:29 +0200 : Log
+
+<!-- feedback-event:6ff1bf61ced5d5c5c35d3d4b48601281a026be95073bcb0ae7751795bbdaf046 (23 October 2026, 19:37:29 +0200) -->
+- Project: zenray-sales-23-october-2026; kind: log. (23 October 2026, 19:37:29 +0200)
+
+> Project initialized: ZenRay Sales. Workshop: /Users/zenray/.claude/tmp/tmp-zenray-sales-23-october-2026. (23 October 2026, 19:37:29 +0200)
+
+## 23 October 2026, 17:28:42 +0200 : Prompt
+
+<!-- feedback-event:7b8010bdc3e821d3c8d13e32ef597a63ad959839739202f6f02f6077b9579d3f (23 October 2026, 17:28:42 +0200) -->
+- Project: zenray-sales-23-october-2026; kind: prompt. (23 October 2026, 17:28:42 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/21bf5c30-b775-4f4b-a369-b58c562c84b7.jsonl. (23 October 2026, 17:28:42 +0200)
+
+> Background (from the session that started this one): (23 October 2026, 17:28:42 +0200)
+> Matthieu Huguet est tech artist 3D freelance (Houdini, Unreal) à Aix-en-Provence, objectif 10 000 € nets au 6 December 2026 pour partir au Japon. Le 23 October 2026, après un rendez-vous avec Andreas (ami dans la vente), il a demandé un skill zenray-sales « outil ultime » qui répond à toute question de vente, marketing, tarification et prospection en s'appuyant sur un maximum de données du web, sur le modèle de Copernicus2.md (2,6 Mo) qui a fait réussir ZenRay Height. La première version de Sales1.md (environ 40 Ko, 67 liens, 4 boucles, surtout des résumés de recherche et seulement 5 pages lues en entier) est jugée trop mince par Matthieu. Doctrine : workflows bannis, travail séquentiel, plusieurs sessions plutôt que parallélisme. (23 October 2026, 17:28:42 +0200)
+>
+> Task: (23 October 2026, 17:28:42 +0200)
+> Enrichir `/Users/zenray/.claude/skills/zenray-sales/Sales1.md` par des boucles de recherche longues et séquentielles, sans Workflow (banni) ni sous-agents en parallèle. Lire d'abord `SKILL.md` du skill, l'index (section 0) et le registre (section 11) de Sales1.md, ainsi que `/Users/zenray/.claude/skills/zenray-houdini/Copernicus2.md` sections 0 à 2 pour le modèle de construction. (23 October 2026, 17:28:42 +0200)
+>
+> Règle de qualité : chaque fait vient d'une page LUE en entier par WebFetch (source primaire de préférence : livre, étude originale, page officielle, interview de l'auteur), jamais du seul résumé d'une recherche ; noter « page lue » dans le registre. Une affirmation non vérifiée s'écrit comme telle. Chaque ligne datée en anglais (« 23 October 2026 » ou date du jour), aucun tiret cadratin, liens complets. (23 October 2026, 17:28:42 +0200)
+>
+> Ordre de travail, un sujet à la fois, chacun terminé par une écriture dans Sales1.md et une ligne de registre : (23 October 2026, 17:28:42 +0200)
+> 1. Les sujets ouverts de la section 11 (proclamations d'Enns, rapport Woodpecker original, $100M Leads et $100M Offers par extraits primaires, tarifs réels tech art en France, ventes d'outils Houdini et Unreal sur Fab, qui décide dans un studio). (23 October 2026, 17:28:42 +0200)
+> 2. Un dossier « fiches de livres » : pour chaque ouvrage de la section 10.3 plus Influence (Cialdini), Fanatical Prospecting (Blount), Predictable Revenue (Ross), Gap Selling (Keenan), The Mom Test (Fitzpatrick), $100M Offers, Pricing Creativity, Obviously Awesome (Dunford), Building a StoryBrand : thèse, cinq techniques applicables, application concrète à un tech artist freelance qui démarche des studios. (23 October 2026, 17:28:42 +0200)
+> 3. Données de marché jeu vidéo : studios en France et en Europe qui externalisent du tech art, tarifs, saisonnalité des budgets, salons (GDC, Gamescom, Game Connection, Montpellier In Game). (23 October 2026, 17:28:42 +0200)
+> 4. Un catalogue de questions-réponses du conseiller (au moins 50 : « store ou studios », « quel prix pour un outil Houdini », « que répondre à trop cher », « relancer quand »...), chaque réponse renvoyant à la section et au calcul de `scripts/SalesMath.mjs`. (23 October 2026, 17:28:42 +0200)
+>
+> Critère de fin d'une session : au moins 80 nouvelles pages lues et consignées, puis entrée dans `~/.claude/PROGRESS.md` via `node ~/.claude/skills/progress/scripts/progress.mjs append`, puis `~/.claude/skills/skill-sync/scripts/sync-skill.sh zenray-sales`. Ne jamais réécrire une ligne existante : corriger par une ligne datée qui la cite. Mettre à jour la liste des sujets ouverts à la fin. (23 October 2026, 17:28:42 +0200)
+>
+> Shared notes folder for this group of sessions (outside the repo; read siblings' notes there, leave hand-over notes or large findings there instead of pasting them into messages): /Users/zenray/Library/Application Support/Claude/side-session-notes/local_2fad5fd3-26c2-49bb-8dd5-1d450b7cc855 (23 October 2026, 17:28:42 +0200)
+
+## 23 October 2026, 17:29:04 +0200 : Iteration
+
+<!-- feedback-event:3ec436e95b50f4f892d79687e7b48da96e6497e0490099a7676ec16fac9e4a82 (23 October 2026, 17:29:04 +0200) -->
+- Project: zenray-sales-23-october-2026; kind: iteration. (23 October 2026, 17:29:04 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/21bf5c30-b775-4f4b-a369-b58c562c84b7.jsonl. (23 October 2026, 17:29:04 +0200)
+
+> Je lis la base existante, puis j'attaque les sujets ouverts un par un avec WebFetch, en écrivant dans Sales1.md après chaque sujet. (23 October 2026, 17:29:04 +0200)
+
+## 23 October 2026, 19:40:50 +0200 : Prompt
+
+<!-- feedback-event:805e1d26cdaa93126bc90c54ec0745fd92be55e648e487ed83f1a23138a665bf (23 October 2026, 19:40:50 +0200) -->
+- Project: zenray-sales-23-october-2026; kind: prompt. (23 October 2026, 19:40:50 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/21bf5c30-b775-4f4b-a369-b58c562c84b7.jsonl. (23 October 2026, 19:40:50 +0200)
+
+> Tool loaded. (23 October 2026, 19:40:50 +0200)
+
+## 23 October 2026, 17:29:41 +0200 : Iteration
+
+<!-- feedback-event:2bf64344f0b766d329927b784b998a7185232bab87b9613533e4b2865a57c138 (23 October 2026, 17:29:41 +0200) -->
+- Project: zenray-sales-23-october-2026; kind: iteration. (23 October 2026, 17:29:41 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/21bf5c30-b775-4f4b-a369-b58c562c84b7.jsonl. (23 October 2026, 17:29:41 +0200)
+
+> Le site d'Enns est une application JavaScript ; je le lis dans le navigateur intégré. (23 October 2026, 17:29:41 +0200)
+
+## 23 October 2026, 17:30:01 +0200 : Iteration
+
+<!-- feedback-event:a7b2c243830b45eb01d2fd4b8042154d9fc2c118b7370c00b83d2077b684d18a (23 October 2026, 17:30:01 +0200) -->
+- Project: zenray-sales-23-october-2026; kind: iteration. (23 October 2026, 17:30:01 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/21bf5c30-b775-4f4b-a369-b58c562c84b7.jsonl. (23 October 2026, 17:30:01 +0200)
+
+> Je lis maintenant les articles d'Enns un par un (source primaire), pour les fiches tarification et relance. (23 October 2026, 17:30:01 +0200)
+
+## 23 October 2026, 17:30:21 +0200 : Iteration
+
+<!-- feedback-event:d898889d340d1c3d18d2d59fecef93e1fe65fea1b9ad5712a47314986875b1ec (23 October 2026, 17:30:21 +0200) -->
+- Project: zenray-sales-23-october-2026; kind: iteration. (23 October 2026, 17:30:21 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/21bf5c30-b775-4f4b-a369-b58c562c84b7.jsonl. (23 October 2026, 17:30:21 +0200)
+
+> Enns est couvert par neuf pages primaires ; je l'écris dans Sales1.md avant de passer à Woodpecker. (23 October 2026, 17:30:21 +0200)
+
+## 23 October 2026, 17:32:08 +0200 : Iteration
+
+<!-- feedback-event:fe47e4ea9e1a9ef9aca3348c845b9bc9af9d4b66b0116f0c58750e9211da2ec1 (23 October 2026, 17:32:08 +0200) -->
+- Project: zenray-sales-23-october-2026; kind: iteration. (23 October 2026, 17:32:08 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/21bf5c30-b775-4f4b-a369-b58c562c84b7.jsonl. (23 October 2026, 17:32:08 +0200)
+
+> J'ai lu les cinq rapports originaux (Woodpecker, Instantly, Belkins, Hunter) : deux chiffres de la section 5.5 étaient mal attribués, je les corrige par une ligne datée. (23 October 2026, 17:32:08 +0200)
+
+## 23 October 2026, 17:33:36 +0200 : Iteration
+
+<!-- feedback-event:acf57ec66bc1628780aae801548d1ecd7bb4b881770f3797a7e45db924f975dc (23 October 2026, 17:33:36 +0200) -->
+- Project: zenray-sales-23-october-2026; kind: iteration. (23 October 2026, 17:33:36 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/21bf5c30-b775-4f4b-a369-b58c562c84b7.jsonl. (23 October 2026, 17:33:36 +0200)
+
+> Hormozi est écrit (PDF officiels). Je passe aux tarifs réels du tech art en France : Malt, SNJV, AFJV. (23 October 2026, 17:33:36 +0200)
+
+## 23 October 2026, 17:39:53 +0200 : Iteration
+
+<!-- feedback-event:6b23febd0e1ed70702a5681298742722673fa6273c480a41f34f0eabc74e4275 (23 October 2026, 17:39:53 +0200) -->
+- Project: zenray-sales-23-october-2026; kind: iteration. (23 October 2026, 17:39:53 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/21bf5c30-b775-4f4b-a369-b58c562c84b7.jsonl. (23 October 2026, 17:39:53 +0200)
+
+> Sujets ouverts faits (Enns, Woodpecker, Hormozi, tarifs, Fab, décideurs). Je vérifie encore à la source la note CNIL d'October 2026 sur les adresses devinées, puis j'attaque les fiches de livres. (23 October 2026, 17:39:53 +0200)
+
+## 23 October 2026, 17:42:00 +0200 : Iteration
+
+<!-- feedback-event:21cb13d37b361602dcbf621fb4334133afa4406fbffbd864e1c0fa8caee684c1 (23 October 2026, 17:42:00 +0200) -->
+- Project: zenray-sales-23-october-2026; kind: iteration. (23 October 2026, 17:42:00 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/21bf5c30-b775-4f4b-a369-b58c562c84b7.jsonl. (23 October 2026, 17:42:00 +0200)
+
+> Je continue les fiches de livres : Fitzpatrick, Dunford et Miller sont lus ; maintenant Cialdini, Blount, Ross, Keenan. (23 October 2026, 17:42:00 +0200)
+
+## 23 October 2026, 17:43:52 +0200 : Iteration
+
+<!-- feedback-event:f05cdb4231b71cae73dabb9755cbcc754e5c33e3abe8d630d27b19674ba6010b (23 October 2026, 17:43:52 +0200) -->
+- Project: zenray-sales-23-october-2026; kind: iteration. (23 October 2026, 17:43:52 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/21bf5c30-b775-4f4b-a369-b58c562c84b7.jsonl. (23 October 2026, 17:43:52 +0200)
+
+> Les pages de Ross ne donnent pas son texte ; je prends un résumé secondaire, signalé comme tel, puis Keenan (Gap Selling). (23 October 2026, 17:43:52 +0200)
+
+## 23 October 2026, 17:45:07 +0200 : Iteration
+
+<!-- feedback-event:a5969f0986897cb1c4afb618bc563347809b5f6e95c0d09a25e1edb0ed8c2796 (23 October 2026, 17:45:07 +0200) -->
+- Project: zenray-sales-23-october-2026; kind: iteration. (23 October 2026, 17:45:07 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/21bf5c30-b775-4f4b-a369-b58c562c84b7.jsonl. (23 October 2026, 17:45:07 +0200)
+
+> Je pose les huit premières fiches dans Sales1.md avant de continuer (Voss, Weiss, Rackham, Sandler, Newport, Challenger). (23 October 2026, 17:45:07 +0200)
+
+## 23 October 2026, 17:46:59 +0200 : Iteration
+
+<!-- feedback-event:7ad6c4808c4b172c7428a38ba019027c3e0256b7f93e5bbefc333ff159eae0a5 (23 October 2026, 17:46:59 +0200) -->
+- Project: zenray-sales-23-october-2026; kind: iteration. (23 October 2026, 17:46:59 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/21bf5c30-b775-4f4b-a369-b58c562c84b7.jsonl. (23 October 2026, 17:46:59 +0200)
+
+> Voss et Weiss sont lus à la source ; je continue avec Rackham, Sandler, Newport et le Challenger. (23 October 2026, 17:46:59 +0200)
+
+## 23 October 2026, 17:49:22 +0200 : Iteration
+
+<!-- feedback-event:90f69c5a3c1ed36b295f44c0d8fd3cf4267f89016ffdabcbdb9fc31bcbf5524c (23 October 2026, 17:49:22 +0200) -->
+- Project: zenray-sales-23-october-2026; kind: iteration. (23 October 2026, 17:49:22 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/21bf5c30-b775-4f4b-a369-b58c562c84b7.jsonl. (23 October 2026, 17:49:22 +0200)
+
+> Fiches de livres terminées (15 fiches). Je passe au marché du jeu vidéo : salons, état de l'industrie, studios français. (23 October 2026, 17:49:22 +0200)
+
+## 23 October 2026, 17:52:18 +0200 : Iteration
+
+<!-- feedback-event:34cb79ba3995e08008f1ea18e63984056f12eb97fe289352ef6b4eb1fff7493c (23 October 2026, 17:52:18 +0200) -->
+- Project: zenray-sales-23-october-2026; kind: iteration. (23 October 2026, 17:52:18 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/21bf5c30-b775-4f4b-a369-b58c562c84b7.jsonl. (23 October 2026, 17:52:18 +0200)
+
+> Le rapport GDC 2026 est lu à la source (Unreal en tête, 64 % des artistes techniques hostiles à l'IA générative). Je continue : devcom et Gamescom, puis les studios d'outsourcing. (23 October 2026, 17:52:18 +0200)
+
+## 23 October 2026, 19:41:10 +0200 : Prompt
+
+<!-- feedback-event:072c764bcc660fe971fb93fc8f53b5e153196ea2ba30a86138c8b4e24ff0aa54 (23 October 2026, 19:41:10 +0200) -->
+- Project: zenray-sales-23-october-2026; kind: prompt. (23 October 2026, 19:41:10 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/c17a2353-0521-4a5e-915b-c4946edfec1f.jsonl. (23 October 2026, 19:41:10 +0200)
+
+> Tool loaded. (23 October 2026, 19:41:10 +0200)
+> <system-reminder> (23 October 2026, 19:41:10 +0200)
+> Attribution for git commits and pull requests you create from here on (this replaces Claude Code's own earlier attribution guidance, such as a previous copy of this reminder; the user's own instructions about these lines, such as a CLAUDE.md or memory rule, take precedence over this reminder, but do not add attribution lines this reminder leaves out): (23 October 2026, 19:41:10 +0200)
+> - End git commit messages with: (23 October 2026, 19:41:10 +0200)
+> Co-Authored-By: Claude Sonnet 5.5 <noreply@anthropic.com> (23 October 2026, 19:41:10 +0200)
+> - End pull request descriptions with: (23 October 2026, 19:41:10 +0200)
+> 🤖 Generated with [Claude Code](https://claude.com/claude-code) (23 October 2026, 19:41:10 +0200)
+>
+> The user can follow this conversation from another device; to put a file in front of them there (a report, a screenshot, a built artifact), send it with SendUserFile. (23 October 2026, 19:41:10 +0200)
+> </system-reminder> (23 October 2026, 19:41:10 +0200)
+
+## 23 October 2026, 18:52:41 +0200 : Iteration
+
+<!-- feedback-event:5a2f222bdb17ceb1da914c99f1772ebf3923ce2692b1787435870ebc455fcef3 (23 October 2026, 18:52:41 +0200) -->
+- Project: zenray-sales-23-october-2026; kind: iteration. (23 October 2026, 18:52:41 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/c17a2353-0521-4a5e-915b-c4946edfec1f.jsonl. (23 October 2026, 18:52:41 +0200)
+
+> Je continue la lecture des sources de la partie micro-entreprise : calendrier de facturation électronique (economie.gouv.fr), mentions de factures micro, puis TVA internationale. (23 October 2026, 18:52:41 +0200)
+
+## 23 October 2026, 18:54:44 +0200 : Iteration
+
+<!-- feedback-event:84c3084fc5049a376686006742e73068b11d723419faf1b956425d38b388a9bf (23 October 2026, 18:54:44 +0200) -->
+- Project: zenray-sales-23-october-2026; kind: iteration. (23 October 2026, 18:54:44 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/c17a2353-0521-4a5e-915b-c4946edfec1f.jsonl. (23 October 2026, 18:54:44 +0200)
+
+> Pages lues jusqu'ici : 14 (micro-entreprise, TVA, facture, e-facture). Le site impots.gouv.fr est en maintenance, je passe par service-public et BOFiP pour l'impôt, puis les formes de société. (23 October 2026, 18:54:44 +0200)
+
+## 23 October 2026, 18:56:41 +0200 : Iteration
+
+<!-- feedback-event:c1cce7633825494be84fa873fcfdc023907ae5fcfc59c794db98af2f94647842 (23 October 2026, 18:56:41 +0200) -->
+- Project: zenray-sales-23-october-2026; kind: iteration. (23 October 2026, 18:56:41 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/c17a2353-0521-4a5e-915b-c4946edfec1f.jsonl. (23 October 2026, 18:56:41 +0200)
+
+> Les formes de société (EURL, SASU, SARL, SAS) sont lues, 20 pages au registre. Je cherche maintenant les taux de charges salariales pour le calcul SASU, puis j'attaque le Japon. (23 October 2026, 18:56:41 +0200)
+
+## 23 October 2026, 18:57:42 +0200 : Iteration
+
+<!-- feedback-event:e0f4c1c5c93eea284eb0e9054e0531871f76d154edce943f6ea169434afdcefc (23 October 2026, 18:57:42 +0200) -->
+- Project: zenray-sales-23-october-2026; kind: iteration. (23 October 2026, 18:57:42 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/c17a2353-0521-4a5e-915b-c4946edfec1f.jsonl. (23 October 2026, 18:57:42 +0200)
+
+> Les sites MOFA et ambassade renvoient 403 (non lisibles). Je lis l'agence d'immigration (moj.go.jp) via un PDF converti en texte, et je vérifie le Japon page par page. (23 October 2026, 18:57:42 +0200)
+
+## 23 October 2026, 19:05:18 +0200 : Iteration
+
+<!-- feedback-event:bff3b70c5502a742b9effe314b8f35c47677401dc193baada7b5a52ff1c7de07 (23 October 2026, 19:05:18 +0200) -->
+- Project: zenray-sales-23-october-2026; kind: iteration. (23 October 2026, 19:05:18 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/c17a2353-0521-4a5e-915b-c4946edfec1f.jsonl. (23 October 2026, 19:05:18 +0200)
+
+> Je fetch ces deux textes (article 197 A, BOFiP départ) pour les lire en entier. (23 October 2026, 19:05:18 +0200)
+
+## 23 October 2026, 19:19:38 +0200 : Iteration
+
+<!-- feedback-event:8802a9a4ab704c054e103249d18f93d39c220a970ce1d4b759f52444904b78ba (23 October 2026, 19:19:38 +0200) -->
+- Project: zenray-sales-23-october-2026; kind: iteration. (23 October 2026, 19:19:38 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/c17a2353-0521-4a5e-915b-c4946edfec1f.jsonl. (23 October 2026, 19:19:38 +0200)
+
+> Les chapitres 17 à 26 sont ajoutés à `/Users/zenray/.claude/skills/zenray-sales/Sales1.md`, mais tout n'est pas vérifié : certaines sources n'étaient pas lisibles. Le fichier passe de 674 à 1048 lignes, et les 674 lignes d'origine sont identiques à la sauvegarde. `TaxMath.mjs` est testé, `PROGRESS.md` est écrit via `progress.mjs append --project "ZenRay Sales"` et `sync-skill.sh zenray-sales` est passé. (23 October 2026, 19:19:38 +0200)
+>
+> **Contenu des chapitres** (23 October 2026, 19:19:38 +0200)
+> - Le chapitre 17 commence par l'avertissement « pas un conseil personnalisé, l'expert-comptable ou l'Urssaf tranche », puis traite la micro-entreprise et la TVA. (23 October 2026, 19:19:38 +0200)
+> - Les chapitres 18 à 22 couvrent l'impôt sur le revenu, les formes de société, le Japon (PVT, impôts, assurance, visas, points), la résidence fiscale et la convention France-Japon, et la résidence permanente. (23 October 2026, 19:19:38 +0200)
+> - Le chapitre 23 donne le tableau de décision en trois scénarios, avec dates, démarches et les dix questions à poser à l'expert-comptable. (23 October 2026, 19:19:38 +0200)
+> - Le chapitre 24 ajoute 36 questions-réponses chiffrées, Q58 à Q93. (23 October 2026, 19:19:38 +0200)
+> - Le chapitre 25 est le registre de 71 pages lues (58 primaires, 7 secondaires, 6 sans info utile). Chaque page porte son mode de lecture : extraction ciblée par WebFetch, texte intégral converti, ou secondaire. (23 October 2026, 19:19:38 +0200)
+> - Le chapitre 26 liste les sujets ouverts A à G. (23 October 2026, 19:19:38 +0200)
+> - Le `SKILL.md` est mis à jour : sources, déclencheurs, règle de réponse « toute question de statut renvoie au chapitre et rappelle de faire valider ». (23 October 2026, 19:19:38 +0200)
+> - J'ai ajouté `scripts/GetPage.py`, qui télécharge une page ou un PDF en texte quand WebFetch échoue. (23 October 2026, 19:19:38 +0200)
+>
+> **Résultats chiffrés** (1 part fiscale, catégorie BNC supposée) (23 October 2026, 19:19:38 +0200)
+>
+> | Question | Réponse | Vérifié comment | (23 October 2026, 19:19:38 +0200)
+> |---|---|---| (23 October 2026, 19:19:38 +0200)
+> | Chiffre d'affaires pour 10 000 € nets en micro BNC | 13 441 € (cotisations 3 441 €, impôt nul) ; 27 888 € pour 20 000 € nets | `TaxMath.mjs --targetNet`, taux de service-public F36232 (25,6 % BNC en 2026) | (23 October 2026, 19:19:38 +0200)
+> | Net sur 30 000 € de chiffre d'affaires | micro 21 418 €, EURL 18 598 €, SASU 15 158 € | `TaxMath.mjs`, avec des taux de société estimés | (23 October 2026, 19:19:38 +0200)
+> | À partir de quand une société bat le micro | vers 8 000 € de frais réels (30 000 à 70 000 € de CA) | balayage de `--expenses` | (23 October 2026, 19:19:38 +0200)
+> | Versement libératoire 2027 | option à faire avant le 30 September 2026, donc **trop tard** | service-public F36244 | (23 October 2026, 19:19:38 +0200)
+> | Facture électronique | réception obligatoire depuis le 1 September 2026, émission pour les micro le 1 September 2027 | service-public A18953 | (23 October 2026, 19:19:38 +0200)
+> | Mention de franchise de TVA | change au 1 September 2026 (« art. L. 223 du CIBS ») | service-public F36008 | (23 October 2026, 19:19:38 +0200)
+> | Résidence permanente au Japon | 200 000 ¥ depuis le 1 October 2026 ; 10 ans, 3 ans avec 70 points, 1 an avec 80 points | agence d'immigration, directives du 24 February 2026 | (23 October 2026, 19:19:38 +0200)
+> | PVT | 4 950 € sur le compte | source secondaire (pvtistes) ; le plan 03 disait 4 700 € | (23 October 2026, 19:19:38 +0200)
+>
+> **Ce que je n'ai pas pu lire** (23 October 2026, 19:19:38 +0200)
+> - impots.gouv.fr est en maintenance, urssaf.fr coupe la connexion, mofa.go.jp et les ambassades du Japon renvoient 403. Les cases de la déclaration et la page non-résidents manquent. (23 October 2026, 19:19:38 +0200)
+> - Les conditions du PVT viennent donc de pvtistes.net, des sources secondaires à reconfirmer sur la page du consulat de Marseille. (23 October 2026, 19:19:38 +0200)
+> - Les taux de l'assimilé salarié et du travailleur non salarié dans `TaxMath.mjs` sont estimés, parce que les pages Urssaf de taux étaient illisibles. (23 October 2026, 19:19:38 +0200)
+> - L'avenant de 2007 à la convention fiscale n'est pas lu, seul le texte de 1995 l'est. (23 October 2026, 19:19:38 +0200)
+> - Aucune page lue ne dit si un PVT peut facturer comme indépendant, ni si une micro-entreprise reste possible depuis le Japon. Les deux sont posés comme questions dans le chapitre 23. (23 October 2026, 19:19:38 +0200)
+> - Je n'ai pas trouvé de preuve du statut actuel de Matthieu (SIRET, catégorie, ACRE). Les calculs supposent une micro-entreprise BNC, signalée comme non confirmée. (23 October 2026, 19:19:38 +0200)
+>
+> | Ce qu'il voulait | Fait ? | Comment je le sais | (23 October 2026, 19:19:38 +0200)
+> |---|---|---| (23 October 2026, 19:19:38 +0200)
+> | Un chapitre complet statut, fiscalité, Japon | Oui, avec les limites ci-dessus | `grep "^## 1[7-9]\|^## 2[0-6]"` trouve les 10 sections | (23 October 2026, 19:19:38 +0200)
+> | Au moins 40 pages primaires lues et consignées | Oui, 58 | registre de la section 25, une ligne par page avec le mode de lecture | (23 October 2026, 19:19:38 +0200)
+> | Un calculateur testé | Oui | `TaxMath.mjs --selftest` donne 5 contrôles verts dont un négatif ; essais à 10 000, 30 000, 70 000 et 100 000 € | (23 October 2026, 19:19:38 +0200)
+> | Aucune ligne existante réécrite | Oui | `diff` des 674 premières lignes contre la sauvegarde | (23 October 2026, 19:19:38 +0200)
+> | Validation par un expert | Pas fait | tout reste à faire valider par un expert-comptable ou l'Urssaf | (23 October 2026, 19:19:38 +0200)
+>
+> Vérifie et fie-toi à ton for intérieur : ce n'est pas une source de vérité sur ce que tu devrais faire de ta vie. (23 October 2026, 19:19:38 +0200)
+>
+> Reformulation courte de la consigne : « Complète le conseiller par un grand chapitre statut, fiscalité et Japon, sourcé sur des pages primaires lues, avec un calculateur et un catalogue de questions. » (23 October 2026, 19:19:38 +0200)
+>
+> Le registre brut et un passage de relais sont dans le dossier de notes partagé (`zenray-sales-boucle6-registry-23-October-2026.md`). (23 October 2026, 19:19:38 +0200)
+
+## 23 October 2026, 19:44:55 +0200 : Prompt
+
+<!-- feedback-event:2b810f91b071a9b636045c1d0489db7cc72cc0347d5483472756c330955dcdd7 (23 October 2026, 19:44:55 +0200) -->
+- Project: zenray-sales-23-october-2026; kind: prompt. (23 October 2026, 19:44:55 +0200)
+
+> 23 October 2026 : après le rendez-vous avec Andreas (ami dans la vente), Matthieu demande un skill zenray-sales qui fait une deep research extrêmement longue (livres, ouvrages, web, mémoire, conversations, ZenRay Knowledge), inspirée de Copernicus2.md de ZenRay Height, consignée dans Sales1.md, qui comprend son business, fait la prospection et l'audit, répond à toute question de sales, marketing, tarification et appels de vente, et tranche logiquement (développer un outil ou vendre l'existant ; store 3D ou studios en high ticket) par un calcul d'euros par heure. (23 October 2026, 19:44:55 +0200)
+
+## 23 October 2026, 19:44:55 +0200 : Standing rule
+
+<!-- feedback-event:f4330f631b0f3103951854e3b5b4b99bdb2e44a59bf9acd2f89bb9b02fdf49c7 (23 October 2026, 19:44:55 +0200) -->
+- Project: zenray-sales-23-october-2026; kind: rule. (23 October 2026, 19:44:55 +0200)
+
+> 23 October 2026 : mots de Matthieu sur la méthode d'Andreas : « il faudrait commencer dès 9 h et noter dans mon agenda de manière très claire de 9 h à 10 h 30 [...] d'abord contacter des studios et toujours regarder mon calendrier, [...] c'est le calendrier qui détermine les choses que je vais faire dans la journée, et ensuite regarder ma to-do list » ; « il va falloir que je réduise mon temps de développement pour augmenter le temps de prospection et de marketing » ; « il vaut mieux envoyer 700 mails plutôt que trois par jour » ; « il y a toujours une logique dans le fait de se faire rémunérer par rapport à ses compétences ». Exemple de tarification : trois offres, la plus chère en premier (1 500, 1 000, 500 euros), exemple et non tarif. (23 October 2026, 19:44:55 +0200)
+
+## 23 October 2026, 19:44:55 +0200 : Log
+
+<!-- feedback-event:50474ebe43b1de4b236e31df4f9710a0803d05a65a9c88c1a305ea92850aa42f (23 October 2026, 19:44:55 +0200) -->
+- Project: zenray-sales-23-october-2026; kind: log. (23 October 2026, 19:44:55 +0200)
+
+> 23 October 2026 : stat de Matthieu à noter, non officielle, peut-être de la chance : à chaque tranche de 10 studios contactés, au moins une réponse positive. Mesure réelle au même jour dans ZenRay Freelance : 15 envois, 1 réponse positive, 3 refus. À recalculer après 100 envois (SalesMath.mjs --measured). (23 October 2026, 19:44:55 +0200)
+
+## 23 October 2026, 19:44:55 +0200 : Log
+
+<!-- feedback-event:e37b199ede4dec1f4f4ae88ded298c6e5c0724343aa61848804ce7b74483617a (23 October 2026, 19:44:55 +0200) -->
+- Project: zenray-sales-23-october-2026; kind: log. (23 October 2026, 19:44:55 +0200)
+
+> 23 October 2026 : Matthieu juge la base trop mince (« c'est pas possible que tu aies fait la recherche aussi rapidement ») et veut un outil ultime qui décide à partir d'une data quasi infinie. Constat dit à Matthieu : environ 25 recherches, 5 pages lues en entier, 67 liens ; deux sessions de recherche lancées depuis la conversation, Sales1.md passe de 40 Ko à 141 Ko (83 pages lues) puis 236 Ko (chapitres 17 à 26). (23 October 2026, 19:44:55 +0200)
+
+## 23 October 2026, 19:44:55 +0200 : Prompt
+
+<!-- feedback-event:25bdf15f4bede034142c30333836520e8988213bb16e7058a1aadffcc79bcf90 (23 October 2026, 19:44:55 +0200) -->
+- Project: zenray-sales-23-october-2026; kind: prompt. (23 October 2026, 19:44:55 +0200)
+
+> 23 October 2026 : Matthieu demande la couverture du statut juridique : lois auto-entrepreneur, basculement vers la SAS ou une entreprise, formes d'évolution, URSSAF, déclaration des revenus, travail au Japon, résidence permanente. Réponse : la base ne couvrait que les plafonds micro-entreprise (section 9.3) ; une session dédiée a ajouté les chapitres 17 à 26 et TaxMath.mjs, avec des taux estimés là où les sources officielles n'étaient pas lisibles. (23 October 2026, 19:44:55 +0200)
+
+## 23 October 2026, 19:44:55 +0200 : Prompt
+
+<!-- feedback-event:c63905104a31a9d0d0b040214017b098a95c32aa35db46d864ed9821d1f673b5 (23 October 2026, 19:44:55 +0200) -->
+- Project: zenray-sales-23-october-2026; kind: prompt. (23 October 2026, 19:44:55 +0200)
+
+> 23 October 2026 : Matthieu demande de pousser dans Assets tout ce qui est lié à ZenRay Sales, de créer un article neutre, de lier et indexer le projet (index mapping) et de consigner toute la conversation. Fait : projet zenray-sales-23-october-2026, quatre sources, deux sessions de recherche liées, ConversationIndex, article en brouillon (ton neutre court) en attente de relecture. (23 October 2026, 19:44:55 +0200)

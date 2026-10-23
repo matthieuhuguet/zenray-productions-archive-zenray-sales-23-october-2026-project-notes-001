@@ -1,0 +1,62 @@
+# Resume zenray-sales-23-october-2026 (23 October 2026 at 19:44)
+
+- Generated from FEEDBACK.md, Rules.md and ConversationIndex.json; derived, never edited by hand, never a substitute for the originals. (23 October 2026 at 19:44)
+- Pinned rules, read first: [Rules.md](/Users/zenray/.claude/Memory1/Projects/zenray-sales-23-october-2026/Rules.md) (0 rules). (23 October 2026 at 19:44)
+- Canonical feedback: [FEEDBACK.md](/Users/zenray/.claude/Memory1/Projects/zenray-sales-23-october-2026/FEEDBACK.md), 23 entries, last Iteration at 23 October 2026, 19:19:38 +0200. (23 October 2026 at 19:44)
+
+## Latest conversations (23 October 2026 at 19:44)
+
+- LATEST claude:c17a2353-0521-4a5e-915b-c4946edfec1f, « Sales1 : statut, URSSAF, impôts, Japon », last activity 23 October 2026 at 19:41 Paris (from feedback). Original: `node scripts/Assets/ConversationDigest.mjs claude:c17a2353-0521-4a5e-915b-c4946edfec1f --out <file.md>`. (23 October 2026 at 19:44)
+- claude:21bf5c30-b775-4f4b-a369-b58c562c84b7, « Deep research zenray-sales : enrichir Sales1.md », last activity 23 October 2026 at 19:40 Paris (from feedback). Original: `node scripts/Assets/ConversationDigest.mjs claude:21bf5c30-b775-4f4b-a369-b58c562c84b7 --out <file.md>`. (23 October 2026 at 19:44)
+
+## Last 6 prompts of Matthieu, oldest first (23 October 2026 at 19:44)
+
+### 23 October 2026, 17:28:42 +0200 · Prompt · claude:21bf5c30
+
+> Background (from the session that started this one):
+> Matthieu Huguet est tech artist 3D freelance (Houdini, Unreal) à Aix-en-Provence, objectif 10 000 € nets au 6 December 2026 pour partir au Japon. Le 23 October 2026, après un rendez-vous avec Andreas (ami dans la vente), il a demandé un skill zenray-sales « outil ultime » qui répond à toute question de vente, marketing, tarification et prospection en s'appuyant sur un maximum de données du web, sur le modèle de Copernicus2.md (2,6 Mo) qui a fait réussir ZenRay Height. La première version de Sales1.md (environ 40 Ko, 67 liens, 4 boucles, surtout des résumés de recherche et seulement 5 pages lues en entier) est jugée trop mince par Matthieu.
+> [... 2796 more characters in FEEDBACK.md]
+
+### 23 October 2026, 19:40:50 +0200 · Prompt · claude:21bf5c30
+
+> Tool loaded.
+
+### 23 October 2026, 19:41:10 +0200 · Prompt · claude:c17a2353
+
+> Tool loaded.
+> <system-reminder>
+> Attribution for git commits and pull requests you create from here on (this replaces Claude Code's own earlier attribution guidance, such as a previous copy of this reminder; the user's own instructions about these lines, such as a CLAUDE.md or memory rule, take precedence over this reminder, but do not add attribution lines this reminder leaves out):
+> - End git commit messages with:
+> Co-Authored-By: Claude Sonnet 5.5 <noreply@anthropic.com>
+> - End pull request descriptions with:
+> 🤖 Generated with [Claude Code](https://claude.com/claude-code)
+> 
+> The user can follow this conversation from another device; to put a file in front of them there (a report, a screenshot, a
+> [... 63 more characters in FEEDBACK.md]
+
+
+## Last 3 iterations or checkpoints (23 October 2026 at 19:44)
+
+### 23 October 2026, 18:57:42 +0200 · Iteration · claude:c17a2353
+
+> Les sites MOFA et ambassade renvoient 403 (non lisibles). Je lis l'agence d'immigration (moj.go.jp) via un PDF converti en texte, et je vérifie le Japon page par page.
+
+### 23 October 2026, 19:05:18 +0200 · Iteration · claude:c17a2353
+
+> Je fetch ces deux textes (article 197 A, BOFiP départ) pour les lire en entier.
+
+### 23 October 2026, 19:19:38 +0200 · Iteration · claude:c17a2353
+
+> Les chapitres 17 à 26 sont ajoutés à `/Users/zenray/.claude/skills/zenray-sales/Sales1.md`, mais tout n'est pas vérifié : certaines sources n'étaient pas lisibles. Le fichier passe de 674 à 1048 lignes, et les 674 lignes d'origine sont identiques à la sauvegarde. `TaxMath.mjs` est testé, `PROGRESS.md` est écrit via `progress.mjs append --project "ZenRay Sales"` et `sync-skill.sh zenray-sales` est passé.
+> 
+> **Contenu des chapitres**
+> - Le chapitre 17 commence par l'avertissement « pas un conseil personnalisé, l'expert-comptable ou l'Urssaf tranche », puis traite la micro-entreprise et la TVA.
+> - Les chapitres 18 à 22 couvrent l'impôt sur le revenu, les formes de société, le Japon (PVT, impôts, as
+> [... 4140 more characters in FEEDBACK.md]
+
+
+## Last order of work (23 October 2026 at 19:44)
+
+- None recorded. (23 October 2026 at 19:44)
+
+Next step: reread the latest prompt above, check it against Rules.md, then continue; append through feedback.py and close the turn with Client.mjs checkpoint. (23 October 2026 at 19:44)
