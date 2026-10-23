@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "zenray-sales-23-october-2026",
- "scannedAt": "2026-10-23T23:35:32.044Z",
+ "scannedAt": "2026-10-23T23:49:32.558Z",
  "conversations": [
   {
    "projectId": "zenray-sales-23-october-2026",
@@ -111,8 +111,8 @@
    "provider": "claude",
    "sessionId": "11264bd4-8a19-4e76-b9be-dc012304e419",
    "title": "zenray knowledge",
-   "updatedAt": "2026-10-23T23:34:54.386Z",
-   "bytes": 38503,
+   "updatedAt": "2026-10-23T23:48:13.297Z",
+   "bytes": 38265,
    "boundProject": "zenray-knowledge-23-october-2026"
   },
   {
