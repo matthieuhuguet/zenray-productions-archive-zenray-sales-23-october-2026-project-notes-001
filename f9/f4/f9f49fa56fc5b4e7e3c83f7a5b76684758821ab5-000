@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "zenray-sales-23-october-2026",
- "scannedAt": "2026-10-23T22:37:30.311Z",
+ "scannedAt": "2026-10-23T22:47:31.202Z",
  "conversations": [
   {
    "projectId": "zenray-sales-23-october-2026",
@@ -63,8 +63,8 @@
    "provider": "claude",
    "sessionId": "58712af3-1264-4e9c-a11d-d90fec62dce4",
    "title": "zenray calendar plan",
-   "updatedAt": "2026-10-23T22:36:58.257Z",
-   "bytes": 38240,
+   "updatedAt": "2026-10-23T22:47:04.509Z",
+   "bytes": 38373,
    "boundProject": "zenray-calendar-plan-23-october-2026"
   },
   {
