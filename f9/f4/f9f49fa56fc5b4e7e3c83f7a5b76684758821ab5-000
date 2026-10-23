@@ -1,22 +1,22 @@
 {
  "schemaVersion": 1,
  "projectId": "zenray-sales-23-october-2026",
- "scannedAt": "2026-10-23T18:37:52.844Z",
+ "scannedAt": "2026-10-23T19:14:28.356Z",
  "conversations": [
   {
    "projectId": "zenray-sales-23-october-2026",
-   "lines": 76,
+   "lines": 79,
    "work": 7,
    "prompts": 0,
    "first": "2026-10-23T12:19:13.181Z",
-   "last": "2026-10-23T18:04:44.258Z",
+   "last": "2026-10-23T19:08:23.002Z",
    "strength": "strong",
    "conversationId": "claude:7e127e64-f68b-4058-b7bb-62c6b86d72ba",
    "provider": "claude",
    "sessionId": "7e127e64-f68b-4058-b7bb-62c6b86d72ba",
    "title": "zenray sales",
-   "updatedAt": "2026-10-23T18:24:20.609Z",
-   "bytes": 40361,
+   "updatedAt": "2026-10-23T19:08:40.874Z",
+   "bytes": 40321,
    "boundProject": "zenray-plan"
   },
   {
@@ -95,9 +95,9 @@
    "provider": "claude",
    "sessionId": "11264bd4-8a19-4e76-b9be-dc012304e419",
    "title": "zenray knowledge",
-   "updatedAt": "2026-10-23T18:37:18.278Z",
-   "bytes": 38541,
-   "boundProject": null
+   "updatedAt": "2026-10-23T19:13:34.107Z",
+   "bytes": 38264,
+   "boundProject": "zenray-knowledge-23-october-2026"
   },
   {
    "projectId": "zenray-sales-23-october-2026",
