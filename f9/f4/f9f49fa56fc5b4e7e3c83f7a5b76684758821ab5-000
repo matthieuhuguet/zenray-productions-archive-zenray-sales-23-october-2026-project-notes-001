@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "zenray-sales-23-october-2026",
- "scannedAt": "2026-10-25T11:35:25.201Z",
+ "scannedAt": "2026-10-26T12:58:44.404Z",
  "conversations": [
   {
    "projectId": "zenray-sales-23-october-2026",
@@ -114,6 +114,38 @@
    "updatedAt": "2026-10-25T10:57:44.128Z",
    "bytes": 38273,
    "boundProject": "zenray-knowledge-23-october-2026"
+  },
+  {
+   "projectId": "zenray-sales-23-october-2026",
+   "lines": 1,
+   "work": 0,
+   "prompts": 0,
+   "first": "2026-10-25T14:01:21.137Z",
+   "last": "2026-10-25T14:01:21.137Z",
+   "strength": "weak",
+   "conversationId": "claude:49b7cc73-992e-4b7f-a693-9e6a0cda48b3",
+   "provider": "claude",
+   "sessionId": "49b7cc73-992e-4b7f-a693-9e6a0cda48b3",
+   "title": "zenray argent",
+   "updatedAt": "2026-10-26T09:50:29.756Z",
+   "bytes": 4459002,
+   "boundProject": "qlmarkdown-designs-25-october-2026"
+  },
+  {
+   "projectId": "zenray-sales-23-october-2026",
+   "lines": 1,
+   "work": 0,
+   "prompts": 0,
+   "first": "2026-10-25T17:37:06.949Z",
+   "last": "2026-10-25T17:37:06.949Z",
+   "strength": "weak",
+   "conversationId": "claude:b8e43d99-5824-4ddc-8444-a984b5743a04",
+   "provider": "claude",
+   "sessionId": "b8e43d99-5824-4ddc-8444-a984b5743a04",
+   "title": "zenray sfx",
+   "updatedAt": "2026-10-25T18:19:59.685Z",
+   "bytes": 38324,
+   "boundProject": "zenray-sfx-25-october-2026"
   },
   {
    "projectId": "zenray-sales-23-october-2026",
