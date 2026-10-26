@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "zenray-sales-23-october-2026",
- "scannedAt": "2026-10-26T12:58:44.404Z",
+ "scannedAt": "2026-10-26T18:59:59.851Z",
  "conversations": [
   {
    "projectId": "zenray-sales-23-october-2026",
@@ -120,6 +120,22 @@
    "lines": 1,
    "work": 0,
    "prompts": 0,
+   "first": "2026-10-25T17:37:06.949Z",
+   "last": "2026-10-25T17:37:06.949Z",
+   "strength": "weak",
+   "conversationId": "claude:b8e43d99-5824-4ddc-8444-a984b5743a04",
+   "provider": "claude",
+   "sessionId": "b8e43d99-5824-4ddc-8444-a984b5743a04",
+   "title": "zenray sfx",
+   "updatedAt": "2026-10-26T18:59:52.909Z",
+   "bytes": 38454,
+   "boundProject": "zenray-sfx-25-october-2026"
+  },
+  {
+   "projectId": "zenray-sales-23-october-2026",
+   "lines": 1,
+   "work": 0,
+   "prompts": 0,
    "first": "2026-10-25T14:01:21.137Z",
    "last": "2026-10-25T14:01:21.137Z",
    "strength": "weak",
@@ -130,22 +146,6 @@
    "updatedAt": "2026-10-26T09:50:29.756Z",
    "bytes": 4459002,
    "boundProject": "qlmarkdown-designs-25-october-2026"
-  },
-  {
-   "projectId": "zenray-sales-23-october-2026",
-   "lines": 1,
-   "work": 0,
-   "prompts": 0,
-   "first": "2026-10-25T17:37:06.949Z",
-   "last": "2026-10-25T17:37:06.949Z",
-   "strength": "weak",
-   "conversationId": "claude:b8e43d99-5824-4ddc-8444-a984b5743a04",
-   "provider": "claude",
-   "sessionId": "b8e43d99-5824-4ddc-8444-a984b5743a04",
-   "title": "zenray sfx",
-   "updatedAt": "2026-10-25T18:19:59.685Z",
-   "bytes": 38324,
-   "boundProject": "zenray-sfx-25-october-2026"
   },
   {
    "projectId": "zenray-sales-23-october-2026",
