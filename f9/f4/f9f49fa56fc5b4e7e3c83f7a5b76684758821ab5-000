@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "zenray-sales-23-october-2026",
- "scannedAt": "2026-10-26T18:59:59.851Z",
+ "scannedAt": "2026-10-27T01:00:35.753Z",
  "conversations": [
   {
    "projectId": "zenray-sales-23-october-2026",
@@ -127,8 +127,8 @@
    "provider": "claude",
    "sessionId": "b8e43d99-5824-4ddc-8444-a984b5743a04",
    "title": "zenray sfx",
-   "updatedAt": "2026-10-26T18:59:52.909Z",
-   "bytes": 38454,
+   "updatedAt": "2026-10-26T20:29:44.320Z",
+   "bytes": 38579,
    "boundProject": "zenray-sfx-25-october-2026"
   },
   {
