@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "zenray-sales-23-october-2026",
- "scannedAt": "2026-11-01T19:36:42.162Z",
+ "scannedAt": "2026-11-02T21:38:31.029Z",
  "conversations": [
   {
    "projectId": "zenray-sales-23-october-2026",
@@ -47,8 +47,8 @@
    "provider": "codex",
    "sessionId": "01a1977d-1eef-7101-ab27-b8d1bd35afcf",
    "title": "Conversation codex 01a1977d",
-   "updatedAt": "2026-11-01T19:07:00.053Z",
-   "bytes": 7547107,
+   "updatedAt": "2026-11-01T22:23:16.100Z",
+   "bytes": 8373764,
    "boundProject": null
   },
   {
@@ -175,8 +175,8 @@
    "provider": "claude",
    "sessionId": "09d15ec8-88ad-4965-a2f0-80b68515e880",
    "title": "zenray meshes",
-   "updatedAt": "2026-11-01T19:20:25.682Z",
-   "bytes": 40537,
+   "updatedAt": "2026-11-02T21:27:18.443Z",
+   "bytes": 44143,
    "boundProject": "zenray-meshes"
   },
   {
