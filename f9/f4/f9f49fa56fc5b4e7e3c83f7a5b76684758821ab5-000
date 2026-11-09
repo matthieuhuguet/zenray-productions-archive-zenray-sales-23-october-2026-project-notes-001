@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "zenray-sales-23-october-2026",
- "scannedAt": "2026-11-09T12:30:51.428Z",
+ "scannedAt": "2026-11-09T18:32:19.976Z",
  "conversations": [
   {
    "projectId": "zenray-sales-23-october-2026",
@@ -101,6 +101,22 @@
   },
   {
    "projectId": "zenray-sales-23-october-2026",
+   "lines": 7,
+   "work": 0,
+   "prompts": 0,
+   "first": "2026-11-09T11:35:16.401Z",
+   "last": "2026-11-09T13:18:47.015Z",
+   "strength": "weak",
+   "conversationId": "claude:6af72161-967c-4826-aab6-8fed6ea2efc6",
+   "provider": "claude",
+   "sessionId": "6af72161-967c-4826-aab6-8fed6ea2efc6",
+   "title": "zenray knight",
+   "updatedAt": "2026-11-09T13:51:18.651Z",
+   "bytes": 39009,
+   "boundProject": "conversation-claude-5316aef55aa94522e805fa65"
+  },
+  {
+   "projectId": "zenray-sales-23-october-2026",
    "lines": 4,
    "work": 0,
    "prompts": 1,
@@ -136,6 +152,22 @@
    "lines": 2,
    "work": 0,
    "prompts": 0,
+   "first": "2026-11-09T15:23:43.008Z",
+   "last": "2026-11-09T15:23:43.008Z",
+   "strength": "weak",
+   "conversationId": "claude:db59f75b-cccf-46e4-a3ce-27e1c3aebd7b",
+   "provider": "claude",
+   "sessionId": "db59f75b-cccf-46e4-a3ce-27e1c3aebd7b",
+   "title": "Auditer le prompt Gemini de ZenRay Knight",
+   "updatedAt": "2026-11-09T15:31:29.723Z",
+   "bytes": 42059,
+   "boundProject": null
+  },
+  {
+   "projectId": "zenray-sales-23-october-2026",
+   "lines": 2,
+   "work": 0,
+   "prompts": 0,
    "first": "2026-10-23T17:59:23.878Z",
    "last": "2026-10-23T23:34:33.502Z",
    "strength": "weak",
@@ -152,16 +184,16 @@
    "lines": 1,
    "work": 0,
    "prompts": 0,
-   "first": "2026-11-09T11:35:16.401Z",
-   "last": "2026-11-09T11:35:16.401Z",
+   "first": "2026-11-09T14:41:43.212Z",
+   "last": "2026-11-09T14:41:43.212Z",
    "strength": "weak",
-   "conversationId": "claude:6af72161-967c-4826-aab6-8fed6ea2efc6",
-   "provider": "claude",
-   "sessionId": "6af72161-967c-4826-aab6-8fed6ea2efc6",
-   "title": "zenray liberty",
-   "updatedAt": "2026-11-09T11:54:45.978Z",
-   "bytes": 2808268,
-   "boundProject": "conversation-claude-5316aef55aa94522e805fa65"
+   "conversationId": "codex:01a1b880-053e-79d2-a657-256ca3f2e083",
+   "provider": "codex",
+   "sessionId": "01a1b880-053e-79d2-a657-256ca3f2e083",
+   "title": "Conversation codex 01a1b880",
+   "updatedAt": "2026-11-09T17:57:36.479Z",
+   "bytes": 36324724,
+   "boundProject": "zenray-progress"
   },
   {
    "projectId": "zenray-sales-23-october-2026",
@@ -176,7 +208,7 @@
    "sessionId": "09d15ec8-88ad-4965-a2f0-80b68515e880",
    "title": "zenray meshes dragon sculpt",
    "updatedAt": "2026-11-05T15:38:15.829Z",
-   "bytes": 58286,
+   "bytes": 58287,
    "boundProject": "zenray-meshes"
   },
   {
