@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "zenray-sales-23-october-2026",
- "scannedAt": "2026-11-13T13:21:41.433Z",
+ "scannedAt": "2026-11-13T19:22:57.764Z",
  "conversations": [
   {
    "projectId": "zenray-sales-23-october-2026",
@@ -34,22 +34,6 @@
    "updatedAt": "2026-10-23T17:36:59.572Z",
    "bytes": 38354,
    "boundProject": null
-  },
-  {
-   "projectId": "zenray-sales-23-october-2026",
-   "lines": 4,
-   "work": 2,
-   "prompts": 0,
-   "first": "2026-11-03T14:18:04.135Z",
-   "last": "2026-11-03T14:19:06.568Z",
-   "strength": "weak",
-   "conversationId": "codex:01a1a1b0-2ed1-7783-8103-99285b9b3355",
-   "provider": "codex",
-   "sessionId": "01a1a1b0-2ed1-7783-8103-99285b9b3355",
-   "title": "Conversation codex 01a1a1b0",
-   "updatedAt": "2026-11-04T23:22:33.033Z",
-   "bytes": 4732655,
-   "boundProject": "zenray-assets-v2"
   },
   {
    "projectId": "zenray-sales-23-october-2026",
